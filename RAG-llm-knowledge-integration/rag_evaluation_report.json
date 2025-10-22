@@ -1,0 +1,25 @@
+{
+  "overall_score": 0.6226991186688288,
+  "retrieval_metrics": {
+    "total_queries": 1,
+    "correct_book_retrieved": 1,
+    "avg_retrieval_rank": [
+      1
+    ],
+    "mrr": [
+      1.0
+    ]
+  },
+  "answer_results": [
+    {
+      "question": "Who is Robert Perry ?",
+      "generated_answer": "System: You are an assistant for question-answering tasks about books.\nUse ONLY the following pieces of retrieved context to answer the question.\n\nIMPORTANT RULES:\n1. If the context does NOT contain i...",
+      "semantic_similarity": 0.11659940141071581,
+      "length_appropriate": false,
+      "context_used": true,
+      "category": "character_identification"
+    }
+  ],
+  "faithfulness": 0.7192982456140351,
+  "relevance": 0.4
+}
