@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "syn-001",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Robinson Crusoe",
+    "question": "What does the protagonist find in the island that helps him survive?",
+    "reference_answer": "The protagonist finds necessary things that will either supply his wants or enable him to supply himself, even as long as he lives.",
+    "evidence": [
+      "something positive to be thankful for in it; and let this\nstand as a direction from the experience of the most miserable of all\nconditions in this world: that we may always find in it something to\ncomfort ourselves from, and to set, in the description of good and\nevil, on the credit side of the account"
+    ],
+    "gold_spans": [
+      [
+        0,
+        132121,
+        132424
+      ]
+    ],
+    "gold_book_ids": [
+      0
+    ],
+    "answerable": true,
+    "source_chunk": [
+      0,
+      131592,
+      132425
+    ]
+  },
+  {
+    "id": "syn-002",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Tom Sawyer",
+    "question": "What does Tom believe about the floating bread in the book 'The Adventures of Tom Sawyer'?",
+    "reference_answer": "Tom believes that the floating bread is mostly influenced by what they _say_ over it before they start it out.",
+    "evidence": [
+      "I reckon it s mostly what\nthey _say_ over it before they start it out"
+    ],
+    "gold_spans": [
+      [
+        1,
+        166526,
+        166595
+      ]
+    ],
+    "gold_book_ids": [
+      1
+    ],
+    "answerable": true,
+    "source_chunk": [
+      1,
+      166021,
+      167017
+    ]
+  },
+  {
+    "id": "syn-003",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Mysterious Island",
+    "question": "What is the reason for the disapprobation of the Kirton mob towards Medland?",
+    "reference_answer": "The Kirton mob would disapprove of Medland due to his involvement in a controversial fight with Kilshaw, as they would cheer burglary if Medland did it.",
+    "evidence": [
+      "As\nfor the disapprobation of the Kirton mob, they held that in high scorn.\n\n\"They'd cheer burglary, if Medland did it,\" said one"
+    ],
+    "gold_spans": [
+      [
+        2,
+        293870,
+        293998
+      ]
+    ],
+    "gold_book_ids": [
+      2
+    ],
+    "answerable": true,
+    "source_chunk": [
+      2,
+      293027,
+      293999
+    ]
+  },
+  {
+    "id": "syn-004",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Treasure Island",
+    "question": "What injury did the captain sustain in the book 'Treasure Island'?",
+    "reference_answer": "The captain sustained an injury to his shoulder-blade and lung.",
+    "evidence": [
+      "As for the captain, his wounds were grievous indeed, but not dangerous.\nNo organ was fatally injured. Anderson s ball--for it was Job that\nshot him first--had broken his shoulder-blade and touched the lung, not\nbadly"
+    ],
+    "gold_spans": [
+      [
+        3,
+        214203,
+        214419
+      ]
+    ],
+    "gold_book_ids": [
+      3
+    ],
+    "answerable": true,
+    "source_chunk": [
+      3,
+      214203,
+      215172
+    ]
+  },
+  {
+    "id": "syn-005",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of James Watt",
+    "question": "Why did James Watt, the protagonist of the book, suddenly feel a strange familiarity with the woman he had been working with?",
+    "reference_answer": "He achieved his purpose of putting the woman beyond the possibility of his own possession.",
+    "evidence": [
+      "The sweet familiarity of each\ndetail in the _petite_ figure before him was impressing his mind as\nnever before, now that he had achieved his purpose of putting it beyond\nthe possibility of his own possession"
+    ],
+    "gold_spans": [
+      [
+        4,
+        44470,
+        44677
+      ]
+    ],
+    "gold_book_ids": [
+      4
+    ],
+    "answerable": true,
+    "source_chunk": [
+      4,
+      44433,
+      45405
+    ]
+  },
+  {
+    "id": "syn-006",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of Julius Caesar",
+    "question": "What did Turkey, a scrivener, often eat for snacks?",
+    "reference_answer": "Turkey often ate Ginger Nut cakes.",
+    "evidence": [
+      "Also, they sent Ginger Nut very\nfrequently for that peculiar cake small, flat, round, and very\nspicy after which he had been named by them"
+    ],
+    "gold_spans": [
+      [
+        5,
+        14880,
+        15018
+      ]
+    ],
+    "gold_book_ids": [
+      5
+    ],
+    "answerable": true,
+    "source_chunk": [
+      5,
+      14717,
+      15652
+    ]
+  },
+  {
+    "id": "syn-007",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Little Women",
+    "question": "What did Jo receive for her first published work?",
+    "reference_answer": "Jo received three hundred dollars for her first published work.",
+    "evidence": [
+      "Well, it was printed, and she got three hundred dollars for it"
+    ],
+    "gold_spans": [
+      [
+        6,
+        547667,
+        547729
+      ]
+    ],
+    "gold_book_ids": [
+      6
+    ],
+    "answerable": true,
+    "source_chunk": [
+      6,
+      547002,
+      547900
+    ]
+  },
+  {
+    "id": "syn-008",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Peter Pan",
+    "question": "Why does Wendy offer to tuck in and mend clothes for the Lost Boys?",
+    "reference_answer": "Peter Pan suggests that Wendy could tuck them in at night and make pockets for them, as none of them have ever been tucked in or have any pockets.",
+    "evidence": [
+      "And you could darn our clothes, and make pockets for us. None of us\nhas any pockets"
+    ],
+    "gold_spans": [
+      [
+        7,
+        47972,
+        48055
+      ]
+    ],
+    "gold_book_ids": [
+      7
+    ],
+    "answerable": true,
+    "source_chunk": [
+      7,
+      47506,
+      48465
+    ]
+  },
+  {
+    "id": "syn-009",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Alice in Wonderland",
+    "question": "What does Alice complain about in 'Alice in Wonderland' regarding the game of croquet?",
+    "reference_answer": "Alice complains about the unfairness of the game and the confusion caused by things being alive, as she nearly missed croqueting the Queen's hedgehog because it ran away.",
+    "evidence": [
+      "I should have croqueted the Queen s hedgehog just now, only\nit ran away when it saw mine coming"
+    ],
+    "gold_spans": [
+      [
+        8,
+        93910,
+        94005
+      ]
+    ],
+    "gold_book_ids": [
+      8
+    ],
+    "answerable": true,
+    "source_chunk": [
+      8,
+      93487,
+      94414
+    ]
+  },
+  {
+    "id": "syn-010",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Great Expectations",
+    "question": "Why did the protagonist not run away to become a soldier or a sailor during his apprenticeship?",
+    "reference_answer": "The protagonist did not run away because Joe was faithful.",
+    "evidence": [
+      "It was not because I was faithful, but\nbecause Joe was faithful, that I never ran away and went for a soldier\nor a sailor"
+    ],
+    "gold_spans": [
+      [
+        10,
+        216444,
+        216565
+      ]
+    ],
+    "gold_book_ids": [
+      10
+    ],
+    "answerable": true,
+    "source_chunk": [
+      10,
+      216347,
+      217102
+    ]
+  },
+  {
+    "id": "syn-011",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Moby Dick",
+    "question": "Why does Flask, an officer in Moby Dick, often feel hungry?",
+    "reference_answer": "Flask often feels hungry because, as an officer, he has never known what it was to be otherwise than hungry, more or less.",
+    "evidence": [
+      "For what he ate did not so much relieve his hunger, as keep it immortal\nin him"
+    ],
+    "gold_spans": [
+      [
+        11,
+        309975,
+        310053
+      ]
+    ],
+    "gold_book_ids": [
+      11
+    ],
+    "answerable": true,
+    "source_chunk": [
+      11,
+      309207,
+      310188
+    ]
+  },
+  {
+    "id": "syn-012",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Sherlock Holmes",
+    "question": "What is the husband's theory about his wife's behavior?",
+    "reference_answer": "The husband thinks it's possible that the excitement of the affair caused a nervous disturbance in his wife.",
+    "evidence": [
+      "Well, really, I came to seek a theory, not to propound one. I have\ngiven you all the facts. Since you ask me, however, I may say that it\nhas occurred to me as possible that the excitement of this affair, the\nconsciousness that she had made so immense a social stride, had the\neffect of causing some little nervous disturbance in my wife"
+    ],
+    "gold_spans": [
+      [
+        12,
+        434672,
+        435008
+      ]
+    ],
+    "gold_book_ids": [
+      12
+    ],
+    "answerable": true,
+    "source_chunk": [
+      12,
+      434085,
+      435061
+    ]
+  },
+  {
+    "id": "syn-013",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Picture of Dorian Gray",
+    "question": "Who did Dorian Gray's mother resemble physically?",
+    "reference_answer": "Dorian Gray's mother resembled Lady Hamilton.",
+    "evidence": [
+      "There were vine leaves in her hair. The purple spilled from the cup she\nwas holding"
+    ],
+    "gold_spans": [
+      [
+        13,
+        280002,
+        280085
+      ]
+    ],
+    "gold_book_ids": [
+      13
+    ],
+    "answerable": true,
+    "source_chunk": [
+      13,
+      279319,
+      280250
+    ]
+  },
+  {
+    "id": "syn-014",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Wonderful Wizard of Oz",
+    "question": "How did the Stork manage to retrieve the Scarecrow from the river in 'The Wonderful Wizard of Oz'?",
+    "reference_answer": "The Stork retrieved the Scarecrow from the river by grabbing him with her great claws.",
+    "evidence": [
+      "Then the Stork with her\ngreat claws grabbed the Scarecrow by the arm and carried him up into\nthe air and back to the bank"
+    ],
+    "gold_spans": [
+      [
+        16,
+        68733,
+        68854
+      ]
+    ],
+    "gold_book_ids": [
+      16
+    ],
+    "answerable": true,
+    "source_chunk": [
+      16,
+      68060,
+      68925
+    ]
+  },
+  {
+    "id": "syn-015",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "A Tale of Two Cities",
+    "question": "What was the state of the 'exquisite gentlemen' at the hotel of Monseigneur during the gathering?",
+    "reference_answer": "The exquisite gentlemen were in a state of exhaustion.",
+    "evidence": [
+      "Exquisite gentlemen of\nthe finest breeding, which was at that remarkable time--and has been\nsince--to be known by its fruits of indifference to every natural\nsubject of human interest, were in the most exemplary state of\nexhaustion, at the hotel of Monseigneur"
+    ],
+    "gold_spans": [
+      [
+        17,
+        206500,
+        206760
+      ]
+    ],
+    "gold_book_ids": [
+      17
+    ],
+    "answerable": true,
+    "source_chunk": [
+      17,
+      206182,
+      207137
+    ]
+  },
+  {
+    "id": "syn-016",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Les Miserables",
+    "question": "What was the Emperor's plan for the beginning of the battle in 'Les Miserables'?",
+    "reference_answer": "The Emperor's plan was to have four and twenty twelve-pounders take Mont-Saint-Jean.",
+    "evidence": [
+      "A\nfew moments after the formation of the battle-array, in the midst of\nthat profound silence, like that which heralds the beginning of a\nstorm, which precedes engagements, the Emperor tapped Haxo on the\nshoulder, as he beheld the three batteries of twelve-pounders"
+    ],
+    "gold_spans": [
+      [
+        18,
+        725647,
+        725911
+      ]
+    ],
+    "gold_book_ids": [
+      18
+    ],
+    "answerable": true,
+    "source_chunk": [
+      18,
+      725435,
+      726186
+    ]
+  },
+  {
+    "id": "syn-017",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Pride and Prejudice",
+    "question": "What regiment has General ----'s promise of an ensigncy for Mr. Wickham?",
+    "reference_answer": "General ----'s regiment, now quartered in the north",
+    "evidence": [
+      "It is\nan advantage to have it so far from this part of the kingdom. He\npromises fairly; and I hope among different people, where they may each\nhave a character to preserve, they will both be more prudent. I have\nwritten to Colonel Forster, to inform him of our present arrangements,\nand to request that he will satisfy the various creditors of Mr. Wickham\nin and near Brighton with assurances of speedy payment, for which I have\npledged myself. And will you give yourself the trouble of carrying"
+    ],
+    "gold_spans": [
+      [
+        19,
+        580812,
+        581307
+      ]
+    ],
+    "gold_book_ids": [
+      19
+    ],
+    "answerable": true,
+    "source_chunk": [
+      19,
+      580335,
+      581307
+    ]
+  },
+  {
+    "id": "syn-018",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Robinson Crusoe",
+    "question": "Why did Crusoe and Xury go ashore?",
+    "reference_answer": "They went ashore to find water.",
+    "evidence": [
+      "waded on shore, carrying nothing but\nour arms and two jars for water"
+    ],
+    "gold_spans": [
+      [
+        0,
+        47747,
+        47815
+      ]
+    ],
+    "gold_book_ids": [
+      0
+    ],
+    "answerable": true,
+    "source_chunk": [
+      0,
+      46945,
+      47816
+    ]
+  },
+  {
+    "id": "syn-019",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Tom Sawyer",
+    "question": "Why did Tom Sawyer and his friends resolve to stop stealing valuable items like bacon and hams?",
+    "reference_answer": "They resolved to stop stealing valuable items because they felt that taking such items was 'plain simple stealing' and there was a command against that in the Bible.",
+    "evidence": [
+      "So they inwardly resolved that so long as they remained in\nthe business, their piracies should not again be sullied with the\ncrime of stealing"
+    ],
+    "gold_spans": [
+      [
+        1,
+        158305,
+        158447
+      ]
+    ],
+    "gold_book_ids": [
+      1
+    ],
+    "answerable": true,
+    "source_chunk": [
+      1,
+      157804,
+      158548
+    ]
+  },
+  {
+    "id": "syn-020",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Mysterious Island",
+    "question": "Who is Kilshaw in 'The Mysterious Island'?",
+    "reference_answer": "Kilshaw is a character who is often portrayed as if he has something awful up his sleeve.",
+    "evidence": [
+      "You're like that chap Kilshaw. He's always talking as if he had\nsomething awful up his sleeve"
+    ],
+    "gold_spans": [
+      [
+        2,
+        205022,
+        205115
+      ]
+    ],
+    "gold_book_ids": [
+      2
+    ],
+    "answerable": true,
+    "source_chunk": [
+      2,
+      204949,
+      205637
+    ]
+  },
+  {
+    "id": "syn-021",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Treasure Island",
+    "question": "How does the coracle move through the waves in Treasure Island?",
+    "reference_answer": "The coracle moves through the waves by threading its way through the lower parts and avoiding the steep slopes and higher, toppling summits of the wave.",
+    "evidence": [
+      "I found each wave, instead of the big, smooth glossy mountain it looks\nfrom shore or from a vessel s deck, was for all the world like any range\nof hills on dry land, full of peaks and smooth places and valleys. The\ncoracle, left to herself, turning from side to side, threaded, so to\nspeak, her way through these lower parts and avoided the steep slopes\nand higher, toppling summits of the wave"
+    ],
+    "gold_spans": [
+      [
+        3,
+        236442,
+        236836
+      ]
+    ],
+    "gold_book_ids": [
+      3
+    ],
+    "answerable": true,
+    "source_chunk": [
+      3,
+      236157,
+      236837
+    ]
+  },
+  {
+    "id": "syn-022",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of James Watt",
+    "question": "What does James Watt imply about Miss Roberts' compatibility with him?",
+    "reference_answer": "James Watt implies that Miss Roberts is not his style.",
+    "evidence": [
+      "She is n't my style at all"
+    ],
+    "gold_spans": [
+      [
+        4,
+        32379,
+        32405
+      ]
+    ],
+    "gold_book_ids": [
+      4
+    ],
+    "answerable": true,
+    "source_chunk": [
+      4,
+      31698,
+      32406
+    ]
+  },
+  {
+    "id": "syn-023",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of Julius Caesar",
+    "question": "What kind of unusual behavior does Bartleby exhibit in the office?",
+    "reference_answer": "Bartleby exhibits unusual behavior by refusing to perform tasks when summoned, as shown by the quote: 'Of course, from behind the screen the usual answer,  I prefer not to,  was sure to come;'",
+    "evidence": [
+      "Of course, from behind the screen the\nusual answer,  I prefer not to,  was sure to come"
+    ],
+    "gold_spans": [
+      [
+        5,
+        33017,
+        33104
+      ]
+    ],
+    "gold_book_ids": [
+      5
+    ],
+    "answerable": true,
+    "source_chunk": [
+      5,
+      32648,
+      33395
+    ]
+  },
+  {
+    "id": "syn-024",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Little Women",
+    "question": "Why is the protagonist settling herself in a new place?",
+    "reference_answer": "She is settling herself in a new place because she will be having her meals with the children, as mentioned by Mrs. K.",
+    "evidence": [
+      "I am to have my meals with the children, if I prefer it to the great\ntable, and for the present I do, for I am bashful, though no one will\nbelieve it"
+    ],
+    "gold_spans": [
+      [
+        6,
+        677047,
+        677196
+      ]
+    ],
+    "gold_book_ids": [
+      6
+    ],
+    "answerable": true,
+    "source_chunk": [
+      6,
+      677047,
+      677804
+    ]
+  },
+  {
+    "id": "syn-025",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Peter Pan",
+    "question": "Why does Wendy offer to get her father and mother to adopt the Lost Boys?",
+    "reference_answer": "Wendy offers to get her father and mother to adopt the Lost Boys because she feels that if they all come with her, she can almost surely do so.",
+    "evidence": [
+      "if you will all come with me I feel almost sure\nI can get my father and mother to adopt you"
+    ],
+    "gold_spans": [
+      [
+        7,
+        162520,
+        162611
+      ]
+    ],
+    "gold_book_ids": [
+      7
+    ],
+    "answerable": true,
+    "source_chunk": [
+      7,
+      161755,
+      162752
+    ]
+  },
+  {
+    "id": "syn-026",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Anna Karenina",
+    "question": "Who did Kitty ask Levin to talk to him about?",
+    "reference_answer": "Kitty asked Levin to talk to him about Oblonsky.",
+    "evidence": [
+      "Oh, Kitty told me to talk to you about Oblonsky"
+    ],
+    "gold_spans": [
+      [
+        9,
+        1649082,
+        1649129
+      ]
+    ],
+    "gold_book_ids": [
+      9
+    ],
+    "answerable": true,
+    "source_chunk": [
+      9,
+      1648273,
+      1649207
+    ]
+  },
+  {
+    "id": "syn-027",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Great Expectations",
+    "question": "Why does the lawyer in Great Expectations seem to have been engaged on a case of a darker complexion than usual?",
+    "reference_answer": "The lawyer was engaged on a case of a darker complexion than usual because he was found with his head inside a closet, not only washing his hands, but laving his face and gargling his throat.",
+    "evidence": [
+      "It had an\nunusually large jack-towel on a roller inside the door, and he would\nwash his hands, and wipe them and dry them all over this towel,\nwhenever he came in from a police court or dismissed a client from his\nroom. When I and my friends repaired to him at six o clock next day, he\nseemed to have been engaged on a case of a darker complexion than\nusual, for we found him with his head butted into this closet, not only\nwashing his hands, but laving his face and gargling his throat"
+    ],
+    "gold_spans": [
+      [
+        10,
+        427821,
+        428307
+      ]
+    ],
+    "gold_book_ids": [
+      10
+    ],
+    "answerable": true,
+    "source_chunk": [
+      10,
+      427765,
+      428473
+    ]
+  },
+  {
+    "id": "syn-028",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Moby Dick",
+    "question": "What does the narrator admire about the whale in 'Moby Dick'?",
+    "reference_answer": "The narrator admires the whale's strong individual vitality, thick walls, and interior spaciousness.",
+    "evidence": [
+      "Oh, man! admire and model thyself\nafter the whale! Do thou, too, remain warm among ice. Do thou, too,\nlive in this world without being of it. Be cool at the equator; keep\nthy blood fluid at the Pole. Like the great dome of St. Peter s, and\nlike the great whale, retain, O man! in all seasons a temperature of\nthine own"
+    ],
+    "gold_spans": [
+      [
+        11,
+        647171,
+        647489
+      ]
+    ],
+    "gold_book_ids": [
+      11
+    ],
+    "answerable": true,
+    "source_chunk": [
+      11,
+      647001,
+      647716
+    ]
+  },
+  {
+    "id": "syn-029",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Sherlock Holmes",
+    "question": "Why did Holmes and Watson rush into the room after breaking the door?",
+    "reference_answer": "The room was empty.",
+    "evidence": [
+      "Together we rushed into the room. It was empty"
+    ],
+    "gold_spans": [
+      [
+        12,
+        554781,
+        554827
+      ]
+    ],
+    "gold_book_ids": [
+      12
+    ],
+    "answerable": true,
+    "source_chunk": [
+      12,
+      554037,
+      554970
+    ]
+  },
+  {
+    "id": "syn-030",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Picture of Dorian Gray",
+    "question": "What did Dorian Gray recently have decorated for himself?",
+    "reference_answer": "He had just had decorated for himself a large octagonal chamber on the ground floor with some curious Renaissance tapestries.",
+    "evidence": [
+      "decorated for himself and hung with some curious Renaissance tapestries\nthat had been discovered stored in a disused attic at Selby Royal"
+    ],
+    "gold_spans": [
+      [
+        13,
+        171097,
+        171234
+      ]
+    ],
+    "gold_book_ids": [
+      13
+    ],
+    "answerable": true,
+    "source_chunk": [
+      13,
+      170612,
+      171583
+    ]
+  },
+  {
+    "id": "syn-031",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Wuthering Heights",
+    "question": "Why does Mr. Heathcliff appear to be animated in an unusual way?",
+    "reference_answer": "Mr. Heathcliff appears to be animated due to hunger, as he states 'I m animated with hunger'.",
+    "evidence": [
+      "I m animated with\nhunger; and, seemingly, I must not eat"
+    ],
+    "gold_spans": [
+      [
+        14,
+        625828,
+        625884
+      ]
+    ],
+    "gold_book_ids": [
+      14
+    ],
+    "answerable": true,
+    "source_chunk": [
+      14,
+      624905,
+      625885
+    ]
+  },
+  {
+    "id": "syn-032",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Lord of the Rings",
+    "question": "Why did King Louis acquire a foothold in Italy?",
+    "reference_answer": "King Louis acquired a foothold in Italy due to the ambition of the Venetians, who desired to obtain half of Lombardy by his intervention.",
+    "evidence": [
+      "I\nwill not blame the course taken by the king, because, wishing to get a\nfoothold in Italy, and having no friends there seeing rather that every\ndoor was shut to him owing to the conduct of Charles he was forced to\naccept those friendships which he could get"
+    ],
+    "gold_spans": [
+      [
+        15,
+        38578,
+        38836
+      ]
+    ],
+    "gold_book_ids": [
+      15
+    ],
+    "answerable": true,
+    "source_chunk": [
+      15,
+      38440,
+      39408
+    ]
+  },
+  {
+    "id": "syn-033",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Wonderful Wizard of Oz",
+    "question": "What did the Scarecrow and the Tin Woodman not eat during supper?",
+    "reference_answer": "The Scarecrow and the Tin Woodman ate nothing at all.",
+    "evidence": [
+      "But first you must get to see him, and that will be a\nhard task; for the Great Wizard does not like to see anyone, and he\nusually has his own way. But what do YOU want?  he continued, speaking\nto Toto. Toto only wagged his tail; for, strange to say, he could not\nspeak.\n\nThe woman now called to them that supper was ready, so they gathered\naround the table and Dorothy ate some delicious porridge and a dish of\nscrambled eggs and a plate of nice white bread, and enjoyed her meal.\nThe Lion ate some of the porridge, but did not care for it, saying it\nwas made from oats and oats were food for horses, not for lions. The\nScarecrow and the Tin Woodman ate nothing at all. Toto ate a little of"
+    ],
+    "gold_spans": [
+      [
+        16,
+        86252,
+        86942
+      ]
+    ],
+    "gold_book_ids": [
+      16
+    ],
+    "answerable": true,
+    "source_chunk": [
+      16,
+      86025,
+      86995
+    ]
+  },
+  {
+    "id": "syn-034",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Les Miserables",
+    "question": "What kind of organization was the Army of the Bastilles?",
+    "reference_answer": "The Army of the Bastilles was a sort of cohort organized on a military footing.",
+    "evidence": [
+      "Then the Army of the Bastilles, a sort of cohort organized on a\nmilitary footing"
+    ],
+    "gold_spans": [
+      [
+        18,
+        1867763,
+        1867843
+      ]
+    ],
+    "gold_book_ids": [
+      18
+    ],
+    "answerable": true,
+    "source_chunk": [
+      18,
+      1867143,
+      1868109
+    ]
+  },
+  {
+    "id": "syn-035",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Pride and Prejudice",
+    "question": "Why was Lady Catherine extremely indignant about the marriage of her nephew?",
+    "reference_answer": "Lady Catherine was extremely indignant on the marriage of her nephew due to the abusive language she sent him in her reply to the letter which announced its arrangement.",
+    "evidence": [
+      "Lady Catherine was extremely indignant on the marriage of her nephew;\nand as she gave way to all the genuine frankness of her character, in\nher reply to the letter which announced its arrangement, she sent him\nlanguage so very abusive"
+    ],
+    "gold_spans": [
+      [
+        19,
+        718219,
+        718453
+      ]
+    ],
+    "gold_book_ids": [
+      19
+    ],
+    "answerable": true,
+    "source_chunk": [
+      19,
+      718219,
+      719030
+    ]
+  },
+  {
+    "id": "syn-036",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Robinson Crusoe",
+    "question": "What animals were present during Crusoe's dinner?",
+    "reference_answer": "A dog and two cats",
+    "evidence": [
+      "two cats, one on one side of the\ntable and one on the other, expecting now and then a bit from my hand,\nas a mark of especial favour"
+    ],
+    "gold_spans": [
+      [
+        0,
+        297587,
+        297719
+      ]
+    ],
+    "gold_book_ids": [
+      0
+    ],
+    "answerable": true,
+    "source_chunk": [
+      0,
+      296947,
+      297720
+    ]
+  },
+  {
+    "id": "syn-037",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Tom Sawyer",
+    "question": "What kind of success did the detective from St. Louis achieve in his investigation for the murder of Dr. Robinson?",
+    "reference_answer": "The detective found a 'clew' (clue) but you can't hang a 'clew' for murder.",
+    "evidence": [
+      "after that detective had got through\nand gone home, Tom felt just as insecure as he was before"
+    ],
+    "gold_spans": [
+      [
+        1,
+        263404,
+        263498
+      ]
+    ],
+    "gold_book_ids": [
+      1
+    ],
+    "answerable": true,
+    "source_chunk": [
+      1,
+      262697,
+      263611
+    ]
+  },
+  {
+    "id": "syn-038",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Mysterious Island",
+    "question": "What is the protagonist's concern about Alicia Derosne?",
+    "reference_answer": "He is concerned that there will be nothing more between him and Alicia Derosne, and she is going away soon, never to return to New Lindsey.",
+    "evidence": [
+      "yet all his doings and\nactivities in the future--and his brain began now to be swift to plan\nthem again--presented themselves to him, not in the actual happening"
+    ],
+    "gold_spans": [
+      [
+        2,
+        352938,
+        353099
+      ]
+    ],
+    "gold_book_ids": [
+      2
+    ],
+    "answerable": true,
+    "source_chunk": [
+      2,
+      352121,
+      353100
+    ]
+  },
+  {
+    "id": "syn-039",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Treasure Island",
+    "question": "What has happened to the prisoners in the log-house?",
+    "reference_answer": "All the prisoners seem to have perished.",
+    "evidence": [
+      "not a sign of any prisoner"
+    ],
+    "gold_spans": [
+      [
+        3,
+        279214,
+        279240
+      ]
+    ],
+    "gold_book_ids": [
+      3
+    ],
+    "answerable": true,
+    "source_chunk": [
+      3,
+      278382,
+      279359
+    ]
+  },
+  {
+    "id": "syn-040",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of James Watt",
+    "question": "What is a possible way to make a high-stepping woman with a sense of honor and dignity dislike a man, according to Potts in 'The Life of James Watt'?",
+    "reference_answer": "Let him play mean and seem to do a few dirty tricks.",
+    "evidence": [
+      "Depends on the kind of girl. If she is one of your high-steppers as to\ndignity and sense of honor, let him play mean and seem to do a few dirty\ntricks"
+    ],
+    "gold_spans": [
+      [
+        4,
+        7852,
+        8002
+      ]
+    ],
+    "gold_book_ids": [
+      4
+    ],
+    "answerable": true,
+    "source_chunk": [
+      4,
+      7715,
+      8392
+    ]
+  },
+  {
+    "id": "syn-041",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of Julius Caesar",
+    "question": "What does Turkey threaten to do to Bartleby after Bartleby refuses to examine his papers?",
+    "reference_answer": "Turkey threatens to step behind Bartleby's screen and black his eyes.",
+    "evidence": [
+      "So saying, Turkey rose to his feet and threw his arms into a pugilistic\nposition. He was hurrying away to make good his promise, when I\ndetained him, alarmed at the effect of incautiously rousing Turkey s\ncombativeness after dinner"
+    ],
+    "gold_spans": [
+      [
+        5,
+        28763,
+        28994
+      ]
+    ],
+    "gold_book_ids": [
+      5
+    ],
+    "answerable": true,
+    "source_chunk": [
+      5,
+      28127,
+      28995
+    ]
+  },
+  {
+    "id": "syn-042",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Little Women",
+    "question": "Why was Beth afraid to visit the Mansion of Bliss?",
+    "reference_answer": "Beth was afraid to visit the Mansion of Bliss because the old gentleman stared at her so hard and said 'Hey!' so loud that he frightened her so much her feet chattered on the floor.",
+    "evidence": [
+      "She went\nonce with Jo, but the old gentleman, not being aware of her infirmity,\nstared at her so hard from under his heavy eyebrows, and said  Hey!  so\nloud, that he frightened her so much her  feet chattered on the floor ,\nshe never told her mother, and she ran away, declaring she would never\ngo there any more"
+    ],
+    "gold_spans": [
+      [
+        6,
+        116710,
+        117022
+      ]
+    ],
+    "gold_book_ids": [
+      6
+    ],
+    "answerable": true,
+    "source_chunk": [
+      6,
+      116585,
+      117549
+    ]
+  },
+  {
+    "id": "syn-043",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Peter Pan",
+    "question": "What does Wendy say when Peter asks about a new child in the room?",
+    "reference_answer": "Wendy says 'Yes.'",
+    "evidence": [
+      "she said quickly, lest a judgment should fall on\nher"
+    ],
+    "gold_spans": [
+      [
+        7,
+        250776,
+        250828
+      ]
+    ],
+    "gold_book_ids": [
+      7
+    ],
+    "answerable": true,
+    "source_chunk": [
+      7,
+      249946,
+      250902
+    ]
+  },
+  {
+    "id": "syn-044",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Alice in Wonderland",
+    "question": "Why is Alice searching for her hedgehog?",
+    "reference_answer": "Alice is searching for her hedgehog because she wants to use it for croquet and the hedgehog is currently engaged in a fight with another hedgehog.",
+    "evidence": [
+      "The hedgehog was engaged in a fight with another hedgehog, which seemed\nto Alice an excellent opportunity for croqueting one of them with the\nother"
+    ],
+    "gold_spans": [
+      [
+        8,
+        95643,
+        95790
+      ]
+    ],
+    "gold_book_ids": [
+      8
+    ],
+    "answerable": true,
+    "source_chunk": [
+      8,
+      95139,
+      95964
+    ]
+  },
+  {
+    "id": "syn-045",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Anna Karenina",
+    "question": "What did Stepan Arkadyevitch do after Laska brought the dead bird to him?",
+    "reference_answer": "Stepan Arkadyevitch loaded his gun.",
+    "evidence": [
+      "It was a bad shot from the right barrel,  responded Stepan\nArkadyevitch, loading his gun"
+    ],
+    "gold_spans": [
+      [
+        9,
+        393030,
+        393118
+      ]
+    ],
+    "gold_book_ids": [
+      9
+    ],
+    "answerable": true,
+    "source_chunk": [
+      9,
+      392574,
+      393460
+    ]
+  },
+  {
+    "id": "syn-046",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Moby Dick",
+    "question": "Why had the log and line on the Pequod not been in use for a long time?",
+    "reference_answer": "The log and line on the Pequod had not been in use for a long time due to a confident reliance on other means of determining the vessel's place.",
+    "evidence": [
+      "Owing to a confident reliance\nupon other means of determining the vessel s place, some merchantmen,\nand many whalemen, especially when cruising, wholly neglect to heave\nthe log"
+    ],
+    "gold_spans": [
+      [
+        11,
+        1076671,
+        1076847
+      ]
+    ],
+    "gold_book_ids": [
+      11
+    ],
+    "answerable": true,
+    "source_chunk": [
+      11,
+      1076557,
+      1077533
+    ]
+  },
+  {
+    "id": "syn-047",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Sherlock Holmes",
+    "question": "What was the annual sum that Julia and the narrator were to receive in the event of their marriage, according to their mother's will?",
+    "reference_answer": "The annual sum that Julia and the narrator were to receive in the event of their marriage was a certain amount, as specified in their mother's will.",
+    "evidence": [
+      "a certain annual sum\nshould be allowed to each of us in the event of our marriage"
+    ],
+    "gold_spans": [
+      [
+        12,
+        324200,
+        324281
+      ]
+    ],
+    "gold_book_ids": [
+      12
+    ],
+    "answerable": true,
+    "source_chunk": [
+      12,
+      323803,
+      324671
+    ]
+  },
+  {
+    "id": "syn-048",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Picture of Dorian Gray",
+    "question": "What was Dorian Gray's wish that he made in Basil Hallward's studio?",
+    "reference_answer": "He wished that he himself might remain young, and the portrait grow old.",
+    "evidence": [
+      "He threw himself into a chair and began to think. Suddenly there\nflashed across his mind what he had said in Basil Hallward s studio the\nday the picture had been finished. Yes, he remembered it perfectly. He\nhad uttered a mad wish that he himself might remain young, and the\nportrait grow old"
+    ],
+    "gold_spans": [
+      [
+        13,
+        172818,
+        173110
+      ]
+    ],
+    "gold_book_ids": [
+      13
+    ],
+    "answerable": true,
+    "source_chunk": [
+      13,
+      172818,
+      173599
+    ]
+  },
+  {
+    "id": "syn-049",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Lord of the Rings",
+    "question": "What did the character regret about his career?",
+    "reference_answer": "The character regretted the perils and enemies he acquired during his career, which could have been avoided if he had been content with the governorships of Lucca and Pisa.",
+    "evidence": [
+      "If I could have believed that Fortune would have cut me off in the\nmidst of the career which was leading to that glory which all my\nsuccesses promised, I should have"
+    ],
+    "gold_spans": [
+      [
+        15,
+        266194,
+        266359
+      ]
+    ],
+    "gold_book_ids": [
+      15
+    ],
+    "answerable": true,
+    "source_chunk": [
+      15,
+      266194,
+      267168
+    ]
+  },
+  {
+    "id": "syn-050",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Wonderful Wizard of Oz",
+    "question": "Why does the Scarecrow want to visit the Emerald City?",
+    "reference_answer": "He wants to ask Oz to give him a brain.",
+    "evidence": [
+      "I cannot get hurt. If anyone treads on my toes or sticks a pin\ninto me, it doesn t matter, for I can t feel it. But I do not want\npeople to call me a fool, and if my head stays stuffed with straw\ninstead of with brains, as yours is, how am I ever to know anything"
+    ],
+    "gold_spans": [
+      [
+        16,
+        26854,
+        27117
+      ]
+    ],
+    "gold_book_ids": [
+      16
+    ],
+    "answerable": true,
+    "source_chunk": [
+      16,
+      26565,
+      27439
+    ]
+  },
+  {
+    "id": "syn-051",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "A Tale of Two Cities",
+    "question": "How does the mender of roads recognize the Marquis later?",
+    "reference_answer": "The mender of roads recognizes the Marquis later by his tall figure.",
+    "evidence": [
+      "By his tall figure,  said the mender of roads, softly, and with his\nfinger at his nose"
+    ],
+    "gold_spans": [
+      [
+        17,
+        328414,
+        328500
+      ]
+    ],
+    "gold_book_ids": [
+      17
+    ],
+    "answerable": true,
+    "source_chunk": [
+      17,
+      328281,
+      329221
+    ]
+  },
+  {
+    "id": "syn-052",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Les Miserables",
+    "question": "Why was M. Leblanc bound securely in the corner near the heap of old iron?",
+    "reference_answer": "M. Leblanc was bound securely because the ruffians wanted to keep him restrained.",
+    "evidence": [
+      "The ruffians bound him securely, in an upright attitude, with his feet\non the ground at the head of the bed, the end which was most remote\nfrom the window, and nearest to the fireplace"
+    ],
+    "gold_spans": [
+      [
+        18,
+        1760692,
+        1760876
+      ]
+    ],
+    "gold_book_ids": [
+      18
+    ],
+    "answerable": true,
+    "source_chunk": [
+      18,
+      1760107,
+      1760981
+    ]
+  },
+  {
+    "id": "syn-053",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Pride and Prejudice",
+    "question": "Why did Mr. Darcy leave Elizabeth's house after proposing to her?",
+    "reference_answer": "Mr. Darcy left Elizabeth's house after proposing to her because he was astonished by her reaction.",
+    "evidence": [
+      "And with these words he hastily left the room, and Elizabeth heard him\nthe next moment open the front door and quit the house"
+    ],
+    "gold_spans": [
+      [
+        19,
+        368051,
+        368176
+      ]
+    ],
+    "gold_book_ids": [
+      19
+    ],
+    "answerable": true,
+    "source_chunk": [
+      19,
+      368051,
+      369036
+    ]
+  },
+  {
+    "id": "syn-054",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Robinson Crusoe",
+    "question": "What did Robinson Crusoe find in his isolated condition that made his life a life of mercy?",
+    "reference_answer": "He found no ravenous beasts, no furious wolves or tigers, no venomous creatures, or poisons.",
+    "evidence": [
+      "In a\nword, as my life was a life of sorrow one way, so it was a life of\nmercy another; and I wanted nothing to make it a life of comfort but to\nbe able to make my sense of God s goodness to me, and care over me in\nthis condition, be my daily consolation; and after I did make a just\nimprovement on these things, I went away, and was no more sad"
+    ],
+    "gold_spans": [
+      [
+        0,
+        265292,
+        265636
+      ]
+    ],
+    "gold_book_ids": [
+      0
+    ],
+    "answerable": true,
+    "source_chunk": [
+      0,
+      265022,
+      265783
+    ]
+  },
+  {
+    "id": "syn-055",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Adventures of Tom Sawyer",
+    "question": "What kind of behavior does Mr. Walters exhibit during the court proceedings?",
+    "reference_answer": "Mr. Walters exhibits behavior of showing off with official bustlings and activities, giving orders, delivering judgments, and discharging directions.",
+    "evidence": [
+      "Mr. Walters fell to  showing off,  with all sorts of official bustlings\nand activities, giving orders, delivering judgments, discharging\ndirections here, there, everywhere that he could find a target"
+    ],
+    "gold_spans": [
+      [
+        1,
+        48779,
+        48978
+      ]
+    ],
+    "gold_book_ids": [
+      1
+    ],
+    "answerable": true,
+    "source_chunk": [
+      1,
+      48779,
+      49763
+    ]
+  },
+  {
+    "id": "syn-056",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Mysterious Island",
+    "question": "Why does Dick express frustration after his encounter with Daisy?",
+    "reference_answer": "Dick expresses frustration because Daisy seems unconcerned about whether he enjoys her company.",
+    "evidence": [
+      "And after a pause he added,\n\"Hang the fellow!\" and shook his head and went home"
+    ],
+    "gold_spans": [
+      [
+        2,
+        34956,
+        35035
+      ]
+    ],
+    "gold_book_ids": [
+      2
+    ],
+    "answerable": true,
+    "source_chunk": [
+      2,
+      34057,
+      35052
+    ]
+  },
+  {
+    "id": "syn-057",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Treasure Island",
+    "question": "How was the firewood arranged for the defense in the house?",
+    "reference_answer": "The firewood was built into four piles - tables, you might say - one about the middle of each side",
+    "evidence": [
+      "firewood had been built into four piles--tables, you might\nsay--one about the middle of each side, and on each of these tables some\nammunition and four loaded muskets were laid ready to the hand of the\ndefenders"
+    ],
+    "gold_spans": [
+      [
+        3,
+        203632,
+        203843
+      ]
+    ],
+    "gold_book_ids": [
+      3
+    ],
+    "answerable": true,
+    "source_chunk": [
+      3,
+      202938,
+      203885
+    ]
+  },
+  {
+    "id": "syn-058",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of James Watt",
+    "question": "Why did James Watt give a book to the woman he was interested in, despite her expressing a strong dislike for it?",
+    "reference_answer": "James Watt gave the book as a gift because he had overheard her express a strong dislike for it, but later regretted his decision.",
+    "evidence": [
+      "That evening he made her a little present, having selected as a gift\na book of the day of which he had chanced to overhear her express to a\nthird person a particularly cordial detestation"
+    ],
+    "gold_spans": [
+      [
+        4,
+        17883,
+        18070
+      ]
+    ],
+    "gold_book_ids": [
+      4
+    ],
+    "answerable": true,
+    "source_chunk": [
+      4,
+      17883,
+      18566
+    ]
+  },
+  {
+    "id": "syn-059",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "The Life of Julius Caesar",
+    "question": "What was Bartleby's demeanor like when he first appeared in the law-chambers?",
+    "reference_answer": "Bartleby's demeanor was described as 'cadaverously gentlemanly _nonchalance_'.",
+    "evidence": [
+      "Now, the utterly unsurmised appearance of Bartleby, tenanting my\nlaw-chambers of a Sunday morning, with his cadaverously gentlemanly"
+    ],
+    "gold_spans": [
+      [
+        5,
+        34676,
+        34808
+      ]
+    ],
+    "gold_book_ids": [
+      5
+    ],
+    "answerable": true,
+    "source_chunk": [
+      5,
+      34676,
+      35646
+    ]
+  },
+  {
+    "id": "syn-060",
+    "qtype": "synthetic",
+    "source": "synthetic",
+    "title": "Little Women",
+    "question": "Why does Jo feel regret in this scene from 'Little Women'?",
+    "reference_answer": "Jo feels regret because she is disappointed about not being able to go somewhere, as mentioned by 'It is a dreadful disappointment'.",
+    "evidence": [
+      "Jo bedewed the little fat pincushion she held\nwith several very bitter tears"
+    ],
+    "gold_spans": [
+      [
+        6,
+        628148,
+        628224
+      ]
+    ],
+    "gold_book_ids": [
+      6
+    ],
+    "answerable": true,
+    "source_chunk": [
+      6,
+      627701,
+      628606
+    ]
+  }
+]

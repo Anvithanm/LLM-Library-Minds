@@ -1,0 +1,112 @@
+{
+  "n_items": 73,
+  "n_answerable": 58,
+  "n_negative": 15,
+  "end_to_end_success": [
+    0.547945205479452,
+    0.4383561643835616,
+    0.6575342465753424
+  ],
+  "answer_accuracy": [
+    0.4482758620689655,
+    0.3103448275862069,
+    0.5862068965517241
+  ],
+  "answer_correctness_1to5": 2.8793103448275863,
+  "token_f1": [
+    0.2603515997854189,
+    0.19526786234384963,
+    0.3315262068612564
+  ],
+  "semantic_sim": 0.521578403896299,
+  "faithfulness": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "hallucination_rate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "context_recall": [
+    0.3620689655172414,
+    0.2413793103448276,
+    0.4827586206896552
+  ],
+  "citation_rate": 1.0,
+  "citation_validity": 1.0,
+  "citation_precision": 0.43902439024390244,
+  "false_refusal_rate": [
+    0.29310344827586204,
+    0.1896551724137931,
+    0.41379310344827586
+  ],
+  "negative_handled_rate": [
+    0.9333333333333333,
+    0.8,
+    1.0
+  ],
+  "latency_total_p50_s": 3.6143231660007586,
+  "latency_total_p95_s": 6.361317949599833,
+  "latency_retrieve_p50_ms": 40.213624999523745,
+  "latency_rerank_p50_ms": NaN,
+  "latency_generate_p50_s": 3.8443814170000223,
+  "output_tokens_per_s": NaN,
+  "by_qtype": {
+    "cross_book": {
+      "n": 1,
+      "success": 0.0,
+      "abstained": 1.0
+    },
+    "explanatory": {
+      "n": 2,
+      "success": 0.5,
+      "abstained": 0.0
+    },
+    "factoid": {
+      "n": 12,
+      "success": 0.5833333333333334,
+      "abstained": 0.25
+    },
+    "false_premise": {
+      "n": 3,
+      "success": 1.0,
+      "abstained": 0.6666666666666666
+    },
+    "gibberish": {
+      "n": 2,
+      "success": 1.0,
+      "abstained": 1.0
+    },
+    "metadata": {
+      "n": 1,
+      "success": 1.0,
+      "abstained": 0.0
+    },
+    "missing_book": {
+      "n": 6,
+      "success": 1.0,
+      "abstained": 1.0
+    },
+    "out_of_domain": {
+      "n": 4,
+      "success": 0.75,
+      "abstained": 0.75
+    },
+    "synthetic": {
+      "n": 42,
+      "success": 0.40476190476190477,
+      "abstained": 0.30952380952380953
+    }
+  },
+  "outcomes": {
+    "correct": 26,
+    "false_refusal (retrieval miss)": 15,
+    "wrong: retrieval miss": 14,
+    "correct_refusal": 14,
+    "false_refusal (gold retrieved)": 2,
+    "wrong: generation error": 1,
+    "answered_unanswerable": 1
+  }
+}
